@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1743521147 source:d:\магистатура_1_курс\2_семестр\mpi\mpi_lab_1\main.cpp
+	<iostream>
+	<mpi.h>
+	<vector>
+
